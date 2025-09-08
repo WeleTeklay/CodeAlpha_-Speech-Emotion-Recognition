@@ -12,9 +12,11 @@ To classify speech recordings into emotional categories such as happy, sad, angr
  **Dataset**
  
 🔹 Source
+
 I used the RAVDESS Emotional Speech Audio dataset, which contains 1,440 high-quality .wav files recorded by 24 professional actors. Each file represents one of eight emotions at varying intensities.
 
 🔹 How I Accessed It
+
 Instead of uploading the dataset manually to Google Drive, I downloaded it directly into Google Colab using the Kaggle API. This method was faster and more efficient for handling large files (~1.09 GB).
 
  **Tools & Technologies**
