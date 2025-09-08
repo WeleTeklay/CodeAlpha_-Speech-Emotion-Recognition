@@ -82,14 +82,19 @@ Evaluated using precision, recall, F1-score, and classification report
 7. Model Saving
 Saved the trained model in .keras format
 
-Stored the final model in Colab and optionally moved to Google Drive
+
+Stored the final model in Colab.
 
  **Results**
  
-Metric	Value
-Accuracy	94%
-Macro F1-Score	0.94
-Weighted F1	0.94
+Metric	    Value
+
+Accuracy	    94%
+
+Macro F1-Score	    0.94
+
+Weighted F1	    0.94
+
 The model performed consistently across all emotion classes, with high precision and recall for each category.
 
  **Repository Contents**
@@ -98,5 +103,4 @@ Speech_Emotion_Recognition.ipynb – full Colab notebook with code and outputs
 
 README.md – this documentation
 
-emotion_model_ravdess_enhanced.keras – saved model (optional)
 
