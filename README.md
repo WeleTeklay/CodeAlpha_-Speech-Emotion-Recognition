@@ -87,13 +87,13 @@ Stored the final model in Colab.
 
  **Results**
  
-Metric	    Value
+Metric	               Value
 
-Accuracy	    94%
+Accuracy	             94%
 
-Macro F1-Score	    0.94
+Macro F1-Score	       0.94
 
-Weighted F1	    0.94
+Weighted F1	          0.94
 
 The model performed consistently across all emotion classes, with high precision and recall for each category.
 
