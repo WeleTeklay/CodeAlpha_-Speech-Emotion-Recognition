@@ -1,6 +1,7 @@
 # CodeAlpha_-Speech-Emotion-Recognition
+
 Speech Emotion Recognition – CodeAlpha Internship Task 2
-Speech Emotion Recognition – CodeAlpha Internship Task 2
+
  **Project Overview**
  
 This project was developed as part of the CodeAlpha Machine Learning Internship. The goal was to build a model that can recognize human emotions from speech audio files using deep learning and audio signal processing techniques.
